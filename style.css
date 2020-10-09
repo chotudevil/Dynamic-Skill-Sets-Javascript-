@@ -55,7 +55,14 @@
     font-weight: 400;
     cursor: pointer;
 }
-
+.active{
+    background-color: red;
+    color: whitesmoke;
+}
+.active1{
+    background-color: red;
+    color: whitesmoke;
+}
 .skills:hover{
     background-color: red;
     color: whitesmoke;
@@ -69,8 +76,7 @@
 }
 .right-side{
     float: left;
-    padding: 20px;
-    
+    padding: 20px;    
     width: 40%;
     min-height: 500px;
 }
