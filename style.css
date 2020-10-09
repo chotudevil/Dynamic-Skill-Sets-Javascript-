@@ -55,7 +55,10 @@
     font-weight: 400;
     cursor: pointer;
 }
-
+.active{
+    background-color: red;
+    color: whitesmoke;
+}
 .skills:hover{
     background-color: red;
     color: whitesmoke;
